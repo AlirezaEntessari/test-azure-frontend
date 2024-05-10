@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/8e72d0fa-f375-49d4-b0ca-de73d8b53bb3/resourceGroups/test-azure/providers/Microsoft.Web/sites/test-azure-frontend",
+    "appService.deploySubpath": "."
+}
